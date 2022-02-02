@@ -5,4 +5,4 @@
 - 💬 Country: Russia
 - 🌱 I’m learning Java
 
-[![Nerkif's GitHub stats](https://github-readme-stats.vercel.app/api?username=nerkif)](https://github.com/nerkif/github-readme-stats)
+![Nerkif's GitHub stats](https://github-readme-stats.vercel.app/api?username=nerkif&show_icons=true&theme=radical)
