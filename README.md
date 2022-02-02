@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-✨ About me ✨
+### ✨ About me ✨
 
 - 🔭 Languages: Java, Js, Python
 - ⚡ Languages: Java, Js, Python
