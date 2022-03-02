@@ -6,7 +6,8 @@
 - ⚡ Love Python and Js
 
 Languages and Tools
-![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=appveyor&logoColor=47C5FB)
+
+![Vk](https://img.shields.io/badge/-Vk-090909?style=for-the-badge&logo=vk&logoColor=47C5FB)
 
 Follow Me
 
