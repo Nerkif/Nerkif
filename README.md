@@ -7,6 +7,6 @@
 
 ### ✨ Follow Me ✨
 
-![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=vkontakte&logoColor=47C5FB)](https://vk.com/nerkif)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=vkontakte&logoColor=47C5FB)](https://vk.com/nerkif)
 
 ![Nerkif's GitHub stats](https://github-readme-stats.vercel.app/api?username=nerkif&show_icons=true&theme=radical)
