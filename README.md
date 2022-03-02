@@ -1,4 +1,4 @@
-Header
+[![Header](https://github.com/Nerkif/Nerkif/blob/main/assets/header.png)(https://vk.com/nerkif)]
 
 ### ✨ About me ✨
 
