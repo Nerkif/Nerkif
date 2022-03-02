@@ -5,10 +5,8 @@
 - 🌱 I’m currently learning Java
 - ⚡ Love Python and Js
 
-Languages and Tools
+### ✨ Follow Me ✨
 
-![Vk](https://img.shields.io/badge/-Vk-090909?style=for-the-badge&logo=vk&logoColor=47C5FB)
-
-Follow Me
+![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=vkontakte&logoColor=47C5FB)](https://vk.com/nerkif)
 
 ![Nerkif's GitHub stats](https://github-readme-stats.vercel.app/api?username=nerkif&show_icons=true&theme=radical)
