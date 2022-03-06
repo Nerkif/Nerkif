@@ -4,10 +4,10 @@
 
 - 🌱 I’m currently learning Java
 - ⚡ Love Python and Js
+- 💬 My discord: ʟᴇʀᴍᴏɴᴛᴏᴠ#9045
 
 ### 💬 Follow Me 💬
 
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-DC143C?style=for-the-badge&logo=vk&logoColor=47C5FB)](https://vk.com/nerkif)
-[![ʟᴇʀᴍᴏɴᴛᴏᴠ#9045](https://img.shields.io/badge/-Instagram-ebb059?style=for-the-badge&logo=instagram&logoColor=47C5FB)])
 
 ![Nerkif's GitHub stats](https://github-readme-stats.vercel.app/api?username=nerkif&show_icons=true&theme=radical)
