@@ -2,9 +2,9 @@
 
 ### ✨ About me ✨
 
-- 🌱 I’m currently learning Java
-- ⚡ Love Python and Js
-- 💬 My discord: ʟᴇʀᴍᴏɴᴛᴏᴠ#9045
+- 🌱 I’m currently learning Python
+- ⚡ Love Js
+- 💬 My discord: C L A U S#9045
 
 ### 💬 Follow Me 💬
 
