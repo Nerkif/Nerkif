@@ -3,6 +3,6 @@
 ### ✨ About me ✨
 
 - 🌱 I’m currently learning JavaScript
-- 💬 Discord: claus_dev
+- 💬 Discord: none
 
 ![C L A U S's GitHub stats](https://github-readme-stats.vercel.app/api?username=nerkif&show_icons=true&theme=radical)
